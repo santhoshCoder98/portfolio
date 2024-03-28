@@ -28,7 +28,7 @@ const Footer = () => {
           target="_blank"
           className="underline underline-offset-2"
         >
-          Let's Connect
+          Let&apos;s Connect
         </Link>
       </Layout>
     </footer>
