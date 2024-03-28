@@ -60,17 +60,17 @@ export default function About() {
                 BIOGRAPHY
               </h2>
               <p className="font-medium ">
-                Hi, I&apos;m <strong>Santhosh Chandrasekaran</strong>, a passionate Software Engineer and Frontend Developer currently pursuing a Master's in Computer Science at the University of California, Irvine. With a strong academic background and a GPA of 4.0/4.0, I specialize in areas such as Data Structures and Algorithms, Machine Learning, and Artificial Intelligence.
+                Hi, I&apos;m <strong>Santhosh Chandrasekaran</strong>, a passionate Software Engineer and Frontend Developer currently pursuing a Master&apos;s in Computer Science at the University of California, Irvine. With a strong academic background and a GPA of 4.0/4.0, I specialize in areas such as Data Structures and Algorithms, Machine Learning, and Artificial Intelligence.
               </p>
               <p className="my-4 font-medium">
                 Outside my academic pursuits, I've dedicated personal time to interesting projects that showcase my technical skills. CulinaryCrafts, a user-friendly web application developed using React, allows users to add, update, and store recipes. The project demonstrates my proficiency in HTML5, CSS3, JavaScript, Bootstrap, and React. Another project, Forkify, is a Recipe Management Web App developed with HTML5, CSS3, and JavaScript, elevating the UI by 40% with Material UI. I seamlessly integrated the Forkify API, enabling efficient searching, viewing, and bookmarking of recipes.
               </p>
               <p className="font-medium">
-                In addition to my personal projects, my professional journey includes a role as a Senior Software Engineer at Aspire Systems, where I led the development of impactful modules, significantly reducing transaction search latency and earning the Role Star Award for my contributions. I've successfully deployed CI/CD pipelines using Azure DevOps, resulting in a substantial reduction in release time.
+                In addition to my personal projects, my professional journey includes a role as a Senior Software Engineer at Aspire Systems, where I led the development of impactful modules, significantly reducing transaction search latency and earning the Role Star Award for my contributions. I&apos;ve successfully deployed CI/CD pipelines using Azure DevOps, resulting in a substantial reduction in release time.
               </p>
 
               <p className="font-medium mt-4">
-              My expertise spans software development, frontend technologies, CI/CD, UI/UX design, and more. As an individual committed to continuous improvement, I am actively seeking opportunities to collaborate and enhance my skills. Let's connect to explore how my diverse background and skills can contribute to your team's success. Feel free to reach out via email at santhoc@uci.edu or connect with me on LinkedIn and GitHub. Looking forward to exciting opportunities and meaningful collaborations!
+              My expertise spans software development, frontend technologies, CI/CD, UI/UX design, and more. As an individual committed to continuous improvement, I am actively seeking opportunities to collaborate and enhance my skills. Let&apos;s connect to explore how my diverse background and skills can contribute to your team&apos;s success. Feel free to reach out via email at santhoc@uci.edu or connect with me on LinkedIn and GitHub. Looking forward to exciting opportunities and meaningful collaborations!
               </p>
             </div>
             <div className="relative col-span-3 h-max rounded-2xl border-2 border-solid border-dark 
