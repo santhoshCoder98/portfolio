@@ -45,8 +45,8 @@ const Education = () => {
         <ul className="w-full flex flex-col items-start justify-between ml-4">
           <Details
             type="Master of Computer Science"
-            time="2020-2022"
-            place="Stanford University"
+            time="2023-2024"
+            place="University of California, Irvine"
             info="Relevant courses included Data Structures and Algorithms, Operating Systems, Machine Learning and Data Mining, Artificial Intelligence. Current Project VISTA - An Innovative Search Engine."
           />
 
