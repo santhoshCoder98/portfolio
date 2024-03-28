@@ -216,7 +216,7 @@ export default function Projects() {
                 summary="A professional portfolio website using Next JS, Tailwind CSS, Framer-motion, and Styled-components. It has smooth page transitions, cool background effects, unique design and it is mobile responsive."
                 img={proj4}
                 link="https://devdreaming.com/videos/build-stunning-portfolio-website-react-js-framer-motion"
-                github="https://github.com/codebucks27/react-portfolio-final"
+                github="https://github.com/santhoshCoder98/portfolio"
               />
             </div>
             {/* <div className="col-span-6 sm:col-span-12">
