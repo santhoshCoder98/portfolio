@@ -215,7 +215,7 @@ export default function Projects() {
                 title="Next.js Portfolio Website"
                 summary="A professional portfolio website using Next JS, Tailwind CSS, Framer-motion, and Styled-components. It has smooth page transitions, cool background effects, unique design and it is mobile responsive."
                 img={proj4}
-                link="https://devdreaming.com/videos/build-stunning-portfolio-website-react-js-framer-motion"
+                link="https://portfolio-fbg2.vercel.app/"
                 github="https://github.com/santhoshCoder98/portfolio"
               />
             </div>
