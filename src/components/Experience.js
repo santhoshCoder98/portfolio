@@ -62,6 +62,14 @@ const Experience = () => {
           />
           <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
             <Details
+              position="Software Developer - Intern"
+              company="Mage Data"
+              companyLink=""
+              time="June 2024 - Sep 2024"
+              address="Chennai, India"
+              work="At Mage Data, I served as a Software Developer Intern, implemented a GAN Model using TensorFlow and Keras to generate synthetic data, increasing data diversity by 30% and improving model performance by 17%. I enhanced data integrity for categorical and numerical variables through Label Encoding and Min-Max Scaling, boosting data accuracy and consistency. Additionally, I improved the Static Data Masking UI Page using AngularJS, leading to a 25% functionality improvement, and utilized RESTful APIs with PostgreSQL in Java to achieve a 20% increase in data handling efficiency."
+            />
+            <Details
               position="Senior Software Engineer"
               company="Aspire Systems"
               companyLink=""
